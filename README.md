@@ -116,7 +116,7 @@ Sparse adjacency list (no dense matrix)
 ✔ Item-item similarity graph
 ✔ Offline runtime measurement
 
-📸 Screenshots available in /screenshots/sample_outputs/
+📸 Screenshots available in /screenshots/
 ---
 
 🚧 Challenges Solved
