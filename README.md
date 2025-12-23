@@ -118,7 +118,7 @@ Sparse adjacency list (no dense matrix)
 
 📸 Screenshots available in 
 --
-/screenshots/Screenshot 2025-12-22 185743.png
+/screenshots/Screenshot 2025-12-22 185743.png/
 
 🚧 Challenges Solved
 ---
