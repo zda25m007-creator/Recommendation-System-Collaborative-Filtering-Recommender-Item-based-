@@ -1,5 +1,6 @@
-#🎬 Item-Based Collaborative Filtering Recommendation System
-#🚀 Milestone 2 | Z5007 – Programming & Data Structures
+🎬 Item-Based Collaborative Filtering Recommendation System
+---
+🚀 Milestone 2 | Z5007 – Programming & Data Structures
 ---
 ✨ Why This Project?
 
